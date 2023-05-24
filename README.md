@@ -25,6 +25,8 @@ Open terminal and try execute some kali linux commands
 
 Find the attackers ip address using ifconfig
 ## OUTPUT:
+![s](https://github.com/praveenst13/Compromising-windows-using-Metasploit/assets/118787793/d9b9e488-6580-4969-a3d2-5061443c0ed1)
+
 
 
 Create a malicious executable file fun.exe using msenom command
@@ -94,6 +96,7 @@ at meterpreter > prompt, execute this command:
 netstat
 A list of network connections appears, including one to a remote port of 4444, as highlighted in the image below.
 Notice the "PID/Program name" value for this connection, which is redacted 
+![ss](https://github.com/praveenst13/Compromising-windows-using-Metasploit/assets/118787793/b2d36ca1-64a2-4863-a648-4ef4a8727dd9)
 
 
 
